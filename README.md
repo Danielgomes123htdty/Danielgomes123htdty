@@ -1,16 +1,18 @@
-## Hi there 👋
+boas vindas ao meu perfil
 
-<!--
-**Danielgomes123htdty/Danielgomes123htdty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel gomes 
 
-Here are some ideas to get you started:
+Estou  estudando o alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sou estudante do antonio florentino
+
+### entrar em contato comigo 📪
+
+00001107865621sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/W1sBuLDUKG8AAAAd/alperv-alper.gif)
+
+
+
+
